@@ -258,6 +258,8 @@ img{
   font-size: var(--biggest-font-size);
   color: var(--first-color);
   margin-bottom: var(--mb-1);
+  text-shadow: 5px 5px 10px rgb(255, 58, 9);
+  align-items: center;
 }
 
 .home__subtitle{
